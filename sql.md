@@ -1,6 +1,7 @@
 # SQL
 ## [SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts](#sql-query-to-retrieve-latest-and-oldest-records-with-aggregated-amounts)
 ## [SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts2](#sql-query-to-retrieve-latest-and-oldest-records-with-aggregated-amounts2)
+
 ## SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts
 ### Problem Description
 How can you retrieve the latest and oldest records for each name in a dataset and, for the oldest record, calculate the total of amounts for all records associated with that name?
