@@ -1,5 +1,5 @@
 # SQL
-+ ## SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts
+## SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts
 
 ### Problem Description
 
