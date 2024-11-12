@@ -39,7 +39,7 @@ In this output:
 - The latest record retains its original `Amount` value.
 
 ## SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts2
-### Problem Description
+### Problem Description 2
 How can you retrieve the latest and oldest records for each name in a dataset and, for the oldest record, calculate the total of amounts for all records associated with that name?
 
 Given a dataset with records for different names, we need to:
