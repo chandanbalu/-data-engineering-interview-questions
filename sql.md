@@ -1,6 +1,6 @@
 # SQL
-## [SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts](#sql-query-to-retrieve-latest-and-oldest-records-with-aggregated-amounts-1)
-## [SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts2](#sql-query-to-retrieve-latest-and-oldest-records-with-aggregated-amounts2-1)
+ [SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts](#sql-query-to-retrieve-latest-and-oldest-records-with-aggregated-amounts-1)
+ [SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts2](#sql-query-to-retrieve-latest-and-oldest-records-with-aggregated-amounts2-1)
 
 ## SQL Query to Retrieve Latest and Oldest Records with Aggregated Amounts
 ### Problem Description
